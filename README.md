@@ -23,7 +23,7 @@
 
 ***Some simple projects done during the course:***
 
-- Social Media Inator 📱 -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SocialMediaInator/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SocialMediaInator/src/bg/sofia/uni/fmi/mjt/socialmediar)
+- Social Media Inator 📱 -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SocialMediaInator/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SocialMediaInator/src/bg/sofia/uni/fmi/mjt/socialmedia)
 
 - Spell Check Tool :speech_balloon: -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SpellCheckTool/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker), [unit tests](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool/test/bg/sofia/uni/fmi/mjt/spellchecker)
 
