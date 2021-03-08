@@ -23,9 +23,9 @@
 
 ***Some simple projects done during the course:***
 
-Social Media Inator 📱 -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SocialMediaInator/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SocialMediaInator/src/bg/sofia/uni/fmi/mjt/socialmediar)
+- Social Media Inator 📱 -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SocialMediaInator/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SocialMediaInator/src/bg/sofia/uni/fmi/mjt/socialmediar)
 
-Spell Check Tool :speech_balloon: -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SpellCheckTool/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker), [unit tests](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool/test/bg/sofia/uni/fmi/mjt/spellchecker)
+- Spell Check Tool :speech_balloon: -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SpellCheckTool/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool/src/bg/sofia/uni/fmi/mjt/spellchecker), [unit tests](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool/test/bg/sofia/uni/fmi/mjt/spellchecker)
 
-Secret Santa Wish List (remastered) :santa: :gift: :christmas_tree: -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SecretSantaWishList/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SecretSantaWishList/src/bg/sofia/uni/fmi/mjt/wish/list), [unit tests](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SecretSantaWishList/test/bg/sofia/uni/fmi/mjt/wish/list)
+- Secret Santa Wish List (remastered) :santa: :gift: :christmas_tree: -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SecretSantaWishList/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SecretSantaWishList/src/bg/sofia/uni/fmi/mjt/wish/list), [unit tests](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SecretSantaWishList/test/bg/sofia/uni/fmi/mjt/wish/list)
 
