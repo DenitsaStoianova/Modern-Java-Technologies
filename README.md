@@ -18,7 +18,6 @@
 - Desingn patterns and SOLID
 - Reactive JVM
 
-
 <img src="https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15.jpg" width="300" height="150">
 
 ***Some simple projects done during the course:***
