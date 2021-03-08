@@ -27,5 +27,5 @@ Social Media Inator 📱 -> [solution](https://github.com/DenitsaStoianova/Moder
 
 Spell Check Tool :speech_balloon: -> [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SpellCheckTool)
 
-Secret Santa Wish List (remastered) :santa: :gift: :christmas_tree: -> [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/edit/master/SecretSantaWishList/README.md)
+Secret Santa Wish List (remastered) :santa: :gift: :christmas_tree: -> [task definition](https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/SecretSantaWishList/README.md), [solution](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SecretSantaWishList/src/bg/sofia/uni/fmi/mjt/wish/list), [unit tests](https://github.com/DenitsaStoianova/Modern-Java-Technologies/tree/master/SecretSantaWishList/test/bg/sofia/uni/fmi/mjt/wish/list)
 
