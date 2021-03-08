@@ -1,6 +1,6 @@
 # Modern-Java-Technologies
 
-<img src="https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15-releases.png" width="400" height="200">
+<img src="https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15-releases.png" width="200" height="100">
 
 
 This repository contains exercises from Modern Java Technologies course at FMI which covers concepts related to Java Programming language like:
