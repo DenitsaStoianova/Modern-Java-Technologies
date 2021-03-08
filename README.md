@@ -1,4 +1,8 @@
 # Modern-Java-Technologies
+
+<img src="https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15-releases.png">
+
+
 This repository contains exercises from Modern Java Technologies course at FMI which covers concepts related to Java Programming language like:
 
 - Intro to Java
@@ -14,3 +18,5 @@ This repository contains exercises from Modern Java Technologies course at FMI w
 - HTTP, Rest
 - Desingn patterns and SOLID
 - Reactive JVM
+
+https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15.jpg
