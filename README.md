@@ -18,4 +18,6 @@ This repository contains exercises from Modern Java Technologies course at FMI w
 - Desingn patterns and SOLID
 - Reactive JVM
 
-<img src="https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15.jpg" width=400" height="400">
+
+<img src="https://github.com/DenitsaStoianova/Modern-Java-Technologies/blob/master/images/java-15.jpg" width="200" height="100">
+
